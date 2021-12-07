@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://alanbispo.github.io/todo-reactjs/
+https://alan-todoreactjs.netlify.app
 
 TODO LIST é um aplicação de gestão de tarefas, que trabalha com listagem e remoção de tarefas
 
@@ -17,7 +17,7 @@ A aplicação consiste em facilitar o dia dia do usuário, podendo listar tarefa
 - ReactJS
 
 ## Onde acessar
-- https://alanbispo.github.io/todo-reactjs/
+- https://alan-todoreactjs.netlify.app
 
 # Autor
 
